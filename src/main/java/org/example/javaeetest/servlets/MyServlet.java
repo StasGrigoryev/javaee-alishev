@@ -1,4 +1,6 @@
-package org.example.javaeetest;
+package org.example.javaeetest.servlets;
+
+import org.example.javaeetest.Cart;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

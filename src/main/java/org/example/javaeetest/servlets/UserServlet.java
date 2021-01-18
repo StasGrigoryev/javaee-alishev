@@ -1,4 +1,7 @@
-package org.example.javaeetest;
+package org.example.javaeetest.servlets;
+
+import org.example.javaeetest.User;
+import org.example.javaeetest.UserDAO;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

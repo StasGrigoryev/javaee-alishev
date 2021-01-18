@@ -1,5 +1,13 @@
-/Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/MyServlet.java
-/Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/User.java
 /Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/UserDAO.java
+/Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/servlets/SetCookiesServlet.java
+/Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/servlets/MyServlet.java
 /Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/Cart.java
-/Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/UserServlet.java
+/Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/servlets/LibraryServlet.java
+/Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/models/User.java
+/Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/servlets/DeleteCookiesServlet.java
+/Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/servlets/UserServlet.java
+/Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/servlets/GetCookiesServlet.java
+/Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/User.java
+/Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/servlets/SignUpServlet.java
+/Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/repos/UsersRepoInMemoryImpl.java
+/Users/stas/dev/javaee_test/src/main/java/org/example/javaeetest/repos/UsersRepo.java

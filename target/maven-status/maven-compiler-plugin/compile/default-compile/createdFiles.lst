@@ -1,5 +1,13 @@
-org/example/javaeetest/UserServlet.class
+org/example/javaeetest/repos/UsersRepo.class
+org/example/javaeetest/models/User.class
 org/example/javaeetest/Cart.class
-org/example/javaeetest/MyServlet.class
+org/example/javaeetest/servlets/LibraryServlet.class
+org/example/javaeetest/servlets/SignUpServlet.class
+org/example/javaeetest/servlets/GetCookiesServlet.class
+org/example/javaeetest/servlets/DeleteCookiesServlet.class
+org/example/javaeetest/servlets/MyServlet.class
+org/example/javaeetest/servlets/SetCookiesServlet.class
+org/example/javaeetest/repos/UsersRepoInMemoryImpl.class
+org/example/javaeetest/servlets/UserServlet.class
 org/example/javaeetest/User.class
 org/example/javaeetest/UserDAO.class

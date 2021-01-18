@@ -8,8 +8,8 @@
 
 	<% Cart cart = (Cart) session.getAttribute("cart"); %>
 
-    <p>Наименование: <%= cart.getName() %> </p>
-    <p>Количество: <%= cart.getQuantity() %> </p>
+    <p>Наименование: ${cart.getName()}</p>
+    <p>Количество: ${cart.getQuantity()} </p>
 
     <%= new java.util.Date() %>
 

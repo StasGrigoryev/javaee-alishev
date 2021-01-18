@@ -10,8 +10,44 @@
   <display-name>Archetype Created Web Application</display-name>
 
   <servlet>
+    <servlet-name>LibraryServlet</servlet-name>
+    <servlet-class>org.example.javaeetest.servlets.LibraryServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LibraryServlet</servlet-name>
+    <url-pattern>/library</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>SetCookiesServlet</servlet-name>
+    <servlet-class>org.example.javaeetest.servlets.SetCookiesServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>SetCookiesServlet</servlet-name>
+    <url-pattern>/setCookies</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>GetCookiesServlet</servlet-name>
+    <servlet-class>org.example.javaeetest.servlets.GetCookiesServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>GetCookiesServlet</servlet-name>
+    <url-pattern>/getCookies</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>DeleteCookiesServlet</servlet-name>
+    <servlet-class>org.example.javaeetest.servlets.DeleteCookiesServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DeleteCookiesServlet</servlet-name>
+    <url-pattern>/deleteCookies</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
     <servlet-name>UserServlet</servlet-name>
-    <servlet-class>org.example.javaeetest.UserServlet</servlet-class>
+    <servlet-class>org.example.javaeetest.servlets.UserServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>UserServlet</servlet-name>
@@ -20,7 +56,7 @@
 
   <servlet>
     <servlet-name>MyServlet</servlet-name>
-    <servlet-class>org.example.javaeetest.MyServlet</servlet-class>
+    <servlet-class>org.example.javaeetest.servlets.MyServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>MyServlet</servlet-name>
